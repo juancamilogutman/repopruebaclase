@@ -13,3 +13,7 @@ texto del cuerpo
 **más texto**
 
 probando
+
+-    bullet point
+-    bullet point 2
+
